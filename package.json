@@ -1,6 +1,6 @@
 {
   "name": "@winsznx/react",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "React hooks and providers for integrating PULSE into AppKit, wagmi, and Stacks apps.",
   "type": "module",
   "main": "./dist/index.js",
